@@ -4,4 +4,4 @@
 -   Contains animations when scrolling.
 -   Compatible with all devices.
 
-![preview img](/preview.png)
+![preview img](/preview.jpg)
